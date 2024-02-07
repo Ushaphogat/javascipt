@@ -19,10 +19,15 @@ window.console.log(window);
 console.log(document.body);
 document.body.style.background = "cerulean";
 */
-const changebodyred = () => {
+/*const changebodyred = () => {
   document.body.firstElementChild.Style.background = "red";
-};
+};*/
 
 /*let b = document.body;
 console.log("first child of b is: ", b.firstChild);
 console.log("first element child of b is: ", b.firstelementChild);*/
+
+let t = document.body.firstElementChild.firstElementChild;
+console.log(t);
+console.log(t.rows);
+console.log(t.captions);

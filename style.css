@@ -1,0 +1,17 @@
+body {
+  background-color: cornflowerblue;
+  padding: 0;
+}
+
+ul {
+  display: flexbox;
+  background-color: darkgrey;
+  margin: 0;
+  padding: 5px 0;
+  color: antiquewhite;
+}
+
+ul li {
+  list-style: none;
+  margin: 23 px;
+}

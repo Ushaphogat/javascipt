@@ -35,9 +35,8 @@ console.log(t.captions);
 
 // change the card title to red
 
-//let ctitle = document.getElementsByClassName("card-title")[0];
-//ctitle.style.color = "red";
-let ctitles = document.querySelectorAll(".card-title");
+
+let ctitles = document.querySelectorAll(" .card-title");
 ctitles[0].style.color = "blue";
 ctitles[1].style.color = "red";
 ctitles[2].style.color = "green";
@@ -51,4 +50,5 @@ console.log(id1);
 console.log(id1.matches(".class"));
 console.log(id1.matches(".box"));
 console.log(sp1.closest(".box"));
-*/
+*/n
+

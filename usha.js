@@ -18,3 +18,5 @@ alert(
 alert(
   "so u replied nishant... I AM GOOD...i am gald that u replied me in(usha.js file)..and i am writing again to ask u that how are you nishant kumar singh? "
 );
+
+alert("hello how are u nishant kumar singh chauhan ? ");
